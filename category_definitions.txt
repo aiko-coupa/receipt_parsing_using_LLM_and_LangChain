@@ -1,0 +1,76 @@
+Meal-Breakfast:
+Expenses incurred for breakfast meals, typically served before 10 AM.
+Meal-Lunch:
+Expenses incurred for lunch meals, typically served between 11 AM and 2 PM.
+Meal-Dinner:
+Expenses incurred for dinner meals, typically served after 5 PM.
+Rental Car:
+Expenses related to the rental of a vehicle for business purposes.
+Parking:
+Expenses for parking fees incurred during business activities.
+Transportation-Other:
+Expenses related to transportation that do not fall under rental cars, such as public transit or ride-sharing.
+Phone-Cellular:
+Expenses related to mobile phone services, including data, calls, and messaging.
+Phone-Other:
+Expenses related to non-cellular phone services, such as landlines.
+Entertainment-Business Meal:
+Expenses for meals with clients or business partners for entertainment purposes.
+Internet:
+Expenses related to internet services, including Wi-Fi and mobile data plans.
+Dues & Subscriptions:
+Membership fees, subscriptions to publications, software, or professional services.
+Office Supplies:
+General office items like paper, pens, staplers, and other consumable materials.
+Other Miscellaneous:
+Expenses that do not fit into any other defined categories. (Broad and may overlap)
+Employee Education-Operations:
+Training, certifications, or courses aimed at improving employee operational skills.
+Employment Ads:
+Costs for advertising job openings across various media channels.
+Relocation Expenses:
+Costs associated with relocating an employee, including moving and temporary housing.
+Employee Benefits-Other:
+Non-standard benefits not covered by health insurance or retirement plans. (Potential overlap)
+Uniforms:
+Costs for purchasing, maintaining, or replacing required employee uniforms.
+Supplies-Laundry:
+Expenses for laundry-related supplies such as detergents and fabric softeners.
+Food Service-Groceries:
+Raw food ingredients purchased for food service operations.
+Food Service-Paper & Plastic Supplies:
+Disposable paper and plastic items used in food service.
+Food Service-Chemicals:
+Cleaning agents and chemicals for maintaining hygiene in food service areas.
+Advertising-Sponsorship:
+Costs related to advertising and sponsoring events or content.
+Conventions/Promotional:
+Expenses for attending or participating in conventions, trade shows, or promotional events.
+Rent:
+Costs for renting office space, equipment, or property.
+Utilities:
+Essential services like electricity, water, gas, and internet for business operations.
+Auto-Repairs:
+Expenses for repairing and maintaining company vehicles.
+Fuel-Gas:
+Costs for fuel for company vehicles or machinery.
+Lodging-Hotel:
+Hotel accommodations during business travel.
+Airlines:
+Airfare and related airline fees for business travel.
+Entertainment-Sports/Event Tickets/Concert Tickets:
+Expenses for tickets to events, concerts, or sports for business purposes.
+Employee Physicals:
+Medical examinations required for employment or job-specific health requirements.
+Gifts-Flowers:
+Costs for purchasing gifts or flowers for special occasions.
+Meeting-Conference Rooms:
+Expenses for renting conference rooms or meeting spaces.
+Tolls:
+Toll fees incurred during business travel.
+GiftCards:
+Costs for purchasing gift cards as rewards or incentives.
+Employee Engagement / Promos:
+Expenses for activities and items designed to boost employee morale.
+Apparel / Promos:
+Branded clothing or promotional items for marketing or employee engagement.
